@@ -1,0 +1,13 @@
+
+JinZhu_dh_03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhu
+  rotate: false
+  xy: 2, 130
+  size: 252, 124
+  orig: 273, 124
+  offset: 0, 0
+  index: -1
