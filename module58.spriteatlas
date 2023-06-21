@@ -106,6 +106,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1f012ff1f914a984aabc64e6885c6ad8, type: 3}
   - {fileID: 21300000, guid: d8f5c2326558bf44e9a056d0fdf29e25, type: 3}
   - {fileID: 21300000, guid: 777fcb3261896804faa27d58f43becc5, type: 3}
+  - {fileID: 21300000, guid: a16afc32ff9b5f04aa52ca4db66301f3, type: 3}
   - {fileID: 21300000, guid: 40f7fa42b261d39479fe37079eced028, type: 3}
   - {fileID: 21300000, guid: 3a822782eef18914f862386998aa1ae4, type: 3}
   - {fileID: 21300000, guid: 6c3b34a2dcd679f4e97589917cd85f8f, type: 3}
@@ -127,6 +128,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: d13e27640d97e094aa5ef02f29bfd2c0, type: 3}
   - {fileID: 21300000, guid: 409f6b6471b51d8478cb8413ec0087a2, type: 3}
   - {fileID: 21300000, guid: 8dfe6884481387d4784497044c7389df, type: 3}
+  - {fileID: 21300000, guid: ec82e89403c00204d9dbe5d11b37b9a3, type: 3}
   - {fileID: 21300000, guid: 0eb233a4f84ed48488f2ca5191c33585, type: 3}
   - {fileID: 21300000, guid: bef271b40cbcea048a8d51d99de6b70e, type: 3}
   - {fileID: 21300000, guid: 592843b456924fd40a44468a1656640b, type: 3}
@@ -152,6 +154,7 @@ SpriteAtlas:
   - {fileID: -7801778763745288727, guid: a06f95b5ef642a64d870233889503021, type: 3}
   - {fileID: 21300000, guid: d47c40c591ee27643b0af8f1ead35e1e, type: 3}
   - {fileID: 21300000, guid: 4b6ae4d5211f4544fa3a5a93b6ecba4b, type: 3}
+  - {fileID: 21300000, guid: 38da77d5733a2db499772bd96a43bbb3, type: 3}
   - {fileID: 21300000, guid: dd550de558983f842aa062205aada27f, type: 3}
   - {fileID: 21300000, guid: afcbc3164ca6fba42b7edcddab07357a, type: 3}
   - {fileID: 21300000, guid: ffa19d07fcfc69b44bc0efb0f2285bb7, type: 3}
@@ -294,6 +297,7 @@ SpriteAtlas:
   - mianfei-5
   - yu1
   - hb_bj
+  - font-fadacai 1
   - peivb02
   - icon_0
   - btn-xc01
@@ -315,6 +319,7 @@ SpriteAtlas:
   - icon_0009_1-(3)
   - bg01
   - tu
+  - font-fadacai
   - LH
   - wild_zi
   - bg
@@ -340,6 +345,7 @@ SpriteAtlas:
   - num_texture_9
   - jzsf_icon_6
   - icon_6
+  - font-zjl
   - arcane_weapon_trail_sheet 1
   - icon_0000_1-(12)
   - icon_7
