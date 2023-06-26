@@ -95,6 +95,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 73f228c0311bb4342977f3eb28ff1aac, type: 3}
   - {fileID: 21300000, guid: 2df28dd06a0af2d44a07d8aa773bd8c0, type: 3}
   - {fileID: 21300000, guid: 4934d7f0f6bdd9f42a7bcf483fd88f00, type: 3}
+  - {fileID: 21300000, guid: cb5008f0b2eb0ad4aaba1ecf2c27afb8, type: 3}
   - {fileID: 21300000, guid: 27222201f9fa4ae4696552d26739ad88, type: 3}
   - {fileID: 21300000, guid: 63b5cb21477ca4a46872bc17dce398ef, type: 3}
   - {fileID: 21300000, guid: d3ca8f51900f18140ac93a0ba5f5d2d8, type: 3}
@@ -260,7 +261,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6e52de4e0bfe4da4f88e5a34dfc94017, type: 3}
   - {fileID: 21300000, guid: d04e977e2a9e3b741a6c15fa6dc5ceee, type: 3}
   - {fileID: 21300000, guid: f076e58e8cd5ef245a35709eeca9ed50, type: 3}
-  - {fileID: 21300000, guid: 09d7a68e324ff664bacf88c80c43b07b, type: 3}
   - {fileID: 21300000, guid: 32c2459e22045b540955a66a04ba9915, type: 3}
   - {fileID: 21300000, guid: e8564fae11b1dc14aa0c025698ca3742, type: 3}
   - {fileID: 21300000, guid: d97a5ede25d1b4244b0746ec9bb360ed, type: 3}
@@ -286,6 +286,7 @@ SpriteAtlas:
   - jzsf_zi_4 1
   - btn-kaishi
   - denglong-bj
+  - gold
   - kuang
   - icon_0010_1-(2)
   - jzsf_btn_9
@@ -451,7 +452,6 @@ SpriteAtlas:
   - di-bar01
   - btn_0000_btn-20
   - b1(merge) 2
-  - jzsf_gold
   - btn-jy
   - jzsf_icon_4
   - zuobian
