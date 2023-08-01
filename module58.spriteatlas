@@ -95,7 +95,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 73f228c0311bb4342977f3eb28ff1aac, type: 3}
   - {fileID: 21300000, guid: 2df28dd06a0af2d44a07d8aa773bd8c0, type: 3}
   - {fileID: 21300000, guid: 4934d7f0f6bdd9f42a7bcf483fd88f00, type: 3}
-  - {fileID: 21300000, guid: cb5008f0b2eb0ad4aaba1ecf2c27afb8, type: 3}
   - {fileID: 21300000, guid: 27222201f9fa4ae4696552d26739ad88, type: 3}
   - {fileID: 21300000, guid: 63b5cb21477ca4a46872bc17dce398ef, type: 3}
   - {fileID: 21300000, guid: d3ca8f51900f18140ac93a0ba5f5d2d8, type: 3}
@@ -107,7 +106,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1f012ff1f914a984aabc64e6885c6ad8, type: 3}
   - {fileID: 21300000, guid: d8f5c2326558bf44e9a056d0fdf29e25, type: 3}
   - {fileID: 21300000, guid: 777fcb3261896804faa27d58f43becc5, type: 3}
-  - {fileID: 21300000, guid: a16afc32ff9b5f04aa52ca4db66301f3, type: 3}
   - {fileID: 21300000, guid: 40f7fa42b261d39479fe37079eced028, type: 3}
   - {fileID: 21300000, guid: 3a822782eef18914f862386998aa1ae4, type: 3}
   - {fileID: 21300000, guid: 6c3b34a2dcd679f4e97589917cd85f8f, type: 3}
@@ -129,7 +127,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: d13e27640d97e094aa5ef02f29bfd2c0, type: 3}
   - {fileID: 21300000, guid: 409f6b6471b51d8478cb8413ec0087a2, type: 3}
   - {fileID: 21300000, guid: 8dfe6884481387d4784497044c7389df, type: 3}
-  - {fileID: 21300000, guid: ec82e89403c00204d9dbe5d11b37b9a3, type: 3}
   - {fileID: 21300000, guid: 0eb233a4f84ed48488f2ca5191c33585, type: 3}
   - {fileID: 21300000, guid: bef271b40cbcea048a8d51d99de6b70e, type: 3}
   - {fileID: 21300000, guid: 592843b456924fd40a44468a1656640b, type: 3}
@@ -155,7 +152,6 @@ SpriteAtlas:
   - {fileID: -7801778763745288727, guid: a06f95b5ef642a64d870233889503021, type: 3}
   - {fileID: 21300000, guid: d47c40c591ee27643b0af8f1ead35e1e, type: 3}
   - {fileID: 21300000, guid: 4b6ae4d5211f4544fa3a5a93b6ecba4b, type: 3}
-  - {fileID: 21300000, guid: 38da77d5733a2db499772bd96a43bbb3, type: 3}
   - {fileID: 21300000, guid: dd550de558983f842aa062205aada27f, type: 3}
   - {fileID: 21300000, guid: afcbc3164ca6fba42b7edcddab07357a, type: 3}
   - {fileID: 21300000, guid: ffa19d07fcfc69b44bc0efb0f2285bb7, type: 3}
@@ -261,6 +257,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6e52de4e0bfe4da4f88e5a34dfc94017, type: 3}
   - {fileID: 21300000, guid: d04e977e2a9e3b741a6c15fa6dc5ceee, type: 3}
   - {fileID: 21300000, guid: f076e58e8cd5ef245a35709eeca9ed50, type: 3}
+  - {fileID: 21300000, guid: 09d7a68e324ff664bacf88c80c43b07b, type: 3}
   - {fileID: 21300000, guid: 32c2459e22045b540955a66a04ba9915, type: 3}
   - {fileID: 21300000, guid: e8564fae11b1dc14aa0c025698ca3742, type: 3}
   - {fileID: 21300000, guid: d97a5ede25d1b4244b0746ec9bb360ed, type: 3}
@@ -286,7 +283,6 @@ SpriteAtlas:
   - jzsf_zi_4 1
   - btn-kaishi
   - denglong-bj
-  - gold
   - kuang
   - icon_0010_1-(2)
   - jzsf_btn_9
@@ -298,7 +294,6 @@ SpriteAtlas:
   - mianfei-5
   - yu1
   - hb_bj
-  - font-fadacai 1
   - peivb02
   - icon_0
   - btn-xc01
@@ -320,7 +315,6 @@ SpriteAtlas:
   - icon_0009_1-(3)
   - bg01
   - tu
-  - font-fadacai
   - LH
   - wild_zi
   - bg
@@ -346,7 +340,6 @@ SpriteAtlas:
   - num_texture_9
   - jzsf_icon_6
   - icon_6
-  - font-zjl
   - arcane_weapon_trail_sheet 1
   - icon_0000_1-(12)
   - icon_7
@@ -452,6 +445,7 @@ SpriteAtlas:
   - di-bar01
   - btn_0000_btn-20
   - b1(merge) 2
+  - jzsf_gold
   - btn-jy
   - jzsf_icon_4
   - zuobian
