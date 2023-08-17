@@ -185,6 +185,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: a12c34c996798f64a9adf434d729ac2c, type: 3}
   - {fileID: 21300000, guid: 3ab571d964554684285e5ba21958e0b7, type: 3}
   - {fileID: 21300000, guid: 2f8176d992b804b4a900c02627d69060, type: 3}
+  - {fileID: 21300000, guid: 057b662a9d1b2154b91d8e3c68349d9f, type: 3}
   - {fileID: 21300000, guid: 3c1e897ae69d8ac45bcfd01c836a2654, type: 3}
   - {fileID: 21300000, guid: 9f8cf78a08344394098ec5506ad61c18, type: 3}
   - {fileID: 21300000, guid: e794ed8a849085940b79a97300235123, type: 3}
@@ -375,6 +376,7 @@ SpriteAtlas:
   - bar-gongxi
   - mainfei-js
   - 6
+  - font-zjl
   - youbian
   - fu_bj
   - icon_0011_1-(1)
